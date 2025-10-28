@@ -1,0 +1,8 @@
+playwright==1.45.0
+requests==2.32.3
+psycopg2-binary==2.9.9
+spotipy==2.23.0
+Flask==3.0.3
+asyncio-mqtt==0.16.2
+python-dotenv==1.0.0
+schedule==1.2.0
