@@ -45,7 +45,7 @@
       },
       "deploy": {
         "startCommand": "python main.py",
-        "region": "europe-west4"
+        "region": "europe-west4-drams3a"
       }
     }
   }
